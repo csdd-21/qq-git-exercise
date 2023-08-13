@@ -38,6 +38,7 @@ export default {
   },
   mounted(){
     console.log(11)
+    console.log(222)
   }
 }
 </script>
