@@ -41,10 +41,7 @@ export default {
     console.log(222)
     console.log(333)
     console.log('hhhhhhhhhhhhhh')
-    console.log('on v0.1 branch' , 1)
-    console.log('on v0.1 branch' , 2)
-    console.log('on v0.1 branch' , 3)
-    console.log('on v0.1 branch' , 4)
+    console.log('on v0.1 branch lasted commit')
   }
 }
 </script>
