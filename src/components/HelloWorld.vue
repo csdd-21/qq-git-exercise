@@ -41,6 +41,7 @@ export default {
     console.log(222)
     console.log(333)
     console.log('hhhhhhhhhhhhhh')
+    console.log('on v0.1 branch' , 1)
   }
 }
 </script>
