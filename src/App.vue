@@ -12,6 +12,9 @@ export default {
   name: 'App',
   components: {
     HelloWorld
+  },
+  mounted(){
+    console.log('v0.1 branch app',1)
   }
 }
 </script>
